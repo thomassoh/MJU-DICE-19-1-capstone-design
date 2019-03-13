@@ -6,7 +6,7 @@ void PackingPrint(short int a);
 char UnPacking(short int a, int k);
 void UnPackingPrint(short int unpack);
 
-int main()
+int main(void)
 {
 	char a,b,c,d,unpacking;
 	short int high,low;
